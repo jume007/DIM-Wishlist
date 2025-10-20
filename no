@@ -2,3 +2,5 @@
 dimwishlist:item=42435996&perks=1563455254,3744057135
 //Mint Retrograde, Rewind Rounds, Envious Arsenal, Bait and Switch
 dimwishlist:item=42435996&perks=1563455254,2817499044,3744057135
+//Mint Retrograde, Rewind Rounds, Hatchling, Envious Arensal, Bait and Switch
+dimwishlist:item=42435996&perks=1563455254,102912326,2817499044,3744057135
